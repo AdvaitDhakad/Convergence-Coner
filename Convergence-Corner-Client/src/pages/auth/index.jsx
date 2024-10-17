@@ -18,7 +18,7 @@ const Auth = () => {
                 <img src={Victory} alt="Victory Emogji" className="h-[100px]" />
             </div>
             <p className="font-medium text-center">
-              Fill in the details
+              Fill  the details
             </p>
           </div>
           <Tabs defaultValue="account" className="w-[400px]">
